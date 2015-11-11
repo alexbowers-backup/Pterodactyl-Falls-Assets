@@ -1,0 +1,23 @@
+Interview Answers
+--------------------------------------
+
+1. I guess, we could use only half of you budget for the complete project, at least if we stick to the plan I've made.
+
+2. Usually, I chrge 100$ per minute of music. If the track is shorter than 1 minute, it costs 70$. Sounds are 5-10$ for each.
+
+3. You are free to use, publish and distribute both music and sounds in any kind of profit- or non-profit projects without any royalties. My authorship must be mentioned, though. I also have right to publish my work in my online portfolio after the game is published (or cancelled) OR after you give me permission to do it. I can use sounds I produce for your project as sources for my other works.
+
+4. I use sounds from three sources:
+a) Audio libraries I legally own
+b) My own recordings I will make especially for this project
+c) Free sounds, distributed under Creative Commons license (I'll process and modify those to make them sound unique)
+
+There is a slight probability that I'll ask you to by 1 or 2 sounds from libraries or stocks.
+
+5. The sounds will be royalty-free, no license is needed AFAIK.
+
+6. I'll provide you with sounds in uncompressed wav. format.
+
+7. Music: First I provide you with a sample or demo. If you find it suitable, I finish the piece in 1 - 4 days and send it to you. Reasonable corrections are always possible.
+
+Sounds: I send you a link to the dropbox folder, when I'll make first part of sounds. New sounds will keep "appear" in this folder and I'll notice you when I'm done. Several corrections can be made after the sounds are put in the game and tested as well.

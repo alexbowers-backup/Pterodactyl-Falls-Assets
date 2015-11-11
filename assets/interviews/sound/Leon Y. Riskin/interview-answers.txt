@@ -1,0 +1,20 @@
+Interview Answers
+--------------------------------------
+
+1. Considering the current budget, you'll get the following, based on my previous works on similar games:
+
+- 30sec menu loop
+- 60-90sec gameplay loop
+- up to 50 custom sfx 
+The music will be composed from scratch and you will receive an exclusive license document (buyout)
+
+2. My usual rate is 350$ for a 60-90sec loop and sound design rates vary depending on the amount of sfx. My hourly rate is 40$/h.
+
+3-4 - The sound effects are usually a combination of custom recordings and my in-house sound effects library. For example, wings flap can be recorded locally with an umbrella or a bed sheet and some crashing sound can be a combination of an explosion effect from my library with a custom recording of falling objects. 
+
+5. You will get an exclusive license for the music and the sfx can be used royalty free
+
+6. Considering the music, by "raw" sounds you mean early drafts or stems? 
+Either way, you can have both, if needed. Regarding the SFX I usually create few options for each instance for you to choose from. 
+
+7. I usually create first drafts for the music and sfx and then revise anything that needs to be reworked. First drafts can take 3-7 days and revisions are usually posted within 24 hours. 

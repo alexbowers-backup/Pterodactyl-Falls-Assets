@@ -1,0 +1,20 @@
+Interview Answers
+--------------------------------------
+
+1. This budget will get you the SFX covered and 1-2 music loops (maybe 3, it's hard to estimate without a asset list or some more concrete numbers of the required assets) 
+
+2. I usually try to work with flat fees that I figure out with my clients based on their needs/budget. If you however prefer to pay on a per sound basis: My rates for single SFX are between 10-25$ (depending on complexity). For Music it's 100-300$ per minute if I get to keep the rights, the rates go up if you want to own the rights exclusively (depending on style/genre/complexity).
+
+3. For the SFX yes, for the music we have to talk about it. Either I grant you rights to use it for your project and everything that's involved (web, media, trailers, etc.) and I retain the rights as author/creator or we agree on a full license buy-out.
+
+4a/b. Yes, they're either sourced from one of my 3rd party libraries or created by myself.
+
+5. Yes. 
+
+6. You will receive the rights to use the final sounds to use in your project. I won't receive any project files, but I grant unlimited revisions (if the communication is good).
+
+7. Workflow: We agree on a complete asset lists of required sounds first. Based on that I will ask a couple of questions and maybe ask for some references to get a good idea of what you want the sounds to "sound like". Then I'll create sounds and send them to you for feedback/criticism. If a sound needs to be changed based on your feedback I'll do another pass. If you're not satisfied after a 3rd pass I will request references or additional directions. Once all sounds are finished I will do one final mastering pass over all assets if needed.
+
+Regarding the rights I would like to setup a contract that covers all of these points in detail.
+
+Typo: 6. You won't receive any project files.

@@ -1,0 +1,66 @@
+Interview Answers
+--------------------------------------
+
+Answered on Wednesday 11th November 2015, 10:37 AM.
+
+1. If we top this to 500 I can add the following to my initial offer:
+
++ 2 more audio loops (1 minute)
++ 5 more sound effects (as described)
+
+2. As I mentioned before:
+
++ if we add more music, the rate for one minute of produced audio is 120 USD
++ adding more sounds is 10 USD per single sound
++ 30 USD per 5 sounds
++ 50 USD per 10 sounds
++ 80 USD per 20 sounds
+
+3. This question pops up every now and then. Let me clarify this for you: The “copyright”, which is defined as “legal right created by the law of a country that grants the creator of an original work exclusive rights for its use and distribution” is always maintained by me, the creator. What you obtain from me (and what’s included in my quote) is:
+
++ your exclusive right to use and distribute all audio produced as long as it resides within the scope of your game or product
+
+what you do not obtain:
+
++ the exclusive right to use and distribute all audio produced outside of your game (e.g. in another game, in a commercial, in a song, in any other product that does not directly have anything to do with the original project itself)
+
+exceptions:
+
++ trailer, ad, commercial for your game
++ video broadcast of gameplay footage
++ on-stage demo’s, presentations, media coverage in reviews, tv shows, radio shows, podcasts
+
+4a. I use royalty-free library audio material if it is really necessary. This type of audio material gives us (me and you) all the necessary rights to use them in commercial projects, as for your game. Furthermore, these sounds are - most of the time - being modified which turns this material into a new copyrighted artwork by me and which can be used freely for any type of project.
+
+Example #1: the character in the game uses a space ship and I need a sound for the warping. I obtain the sound of an industrial tool from my library to pitch it, warp it and modify it so it sounds futuristic enough.
+
+Example #2: some sounds are simply not possible to reproduce using regular foley techniques, e.g. the sound of a real bird or the sound of a dinosaur. I then make use of pre-recorded material which is always obtained under a royalty-free license as described above. If we are making a dinosaur sound, I probably use sounds of pigs, rhinoceroses and elephants but then stack and modify them, which turns the whole ordeal into the case I described in Example #1 :smile:
+
+4b. If you specifically ask me to create all the sounds myself, then yes, I can do just that. Please keep in mind, however, that there will always be a cutback in realism, understandably. 
+
+5. As described in 3. All the sounds I provide for your game are available eternally within the scope of your game. They will not be royalty-free, however. You may use them at your will and limitless as long as it is all part of your game project. If you plan to distribute these sounds on your website - outside of your game, you might have to opt an extra distribution license from me. This kind of license is always bound to a time limit and the amount of downloads (estimated). 
+
+I have to mention here that most game agencies I have worked with so far have never asked for this type of thing as they always use new material for every game. And nobody has the need to make their game sounds available online. 
+
+6. The answer is kind of No.
+
+There are a couple of boundaries here which make this (almost) impossible:
+
++ if you would ever want to open the project files I hand over to you so you can reproduce the actual material, you would need a fully licensed version of my DAW software, about 100 audio plugins (some of which cannot even be purchased anymore), a midi controller, a MOTU audio interface, a couple of smaller software tools and a full installation of Mac OS 10.9 - the problem with this is that you can never fully reproduce the conditions in my studio for creating the exact material
+
++ another hurdle is the large file size. most of my project folders have more than 200 MB
+
++ last but most important, I personally never want to encourage my clients to obtain the project files I create. you can compare this to photographers never handing out their RAW files or designers who are also not keen about handing out the PSD’s. and even if you had these files, you still needed a designer, photographer or sound artist to reproduce the result. what you are paying for is the time I spend on your project and the end product, delivered in WAV and MP3 files. there is of course, the possibility to give you all my sources, but not without a cost. but that’s not the point. I want to create something for you that you can be proud of and come back to me again and say “do it like you did in that game, it was awesome!”. It’s magic what we do. But you cannot own the trick :wink: However, I hope this does not discourage you from working with me. All of my clients understand this and there has never been a problem.
+
+7. Work flow:
+
++ briefing and dialog with client
++ upfront payment of at least 30% of the project price
++ creation of first audio loop
++ feedback and revision chain (maximum of 5 revision steps, however there has never been more than one or two… ever)
++ creation of remaining audio loops
++ feedback and revision chain
++ creation of SFX
++ feedback and revision chain
++ final payment
++ final delivery in WAV, MP3 (or any other exotic export audio format you desire)
